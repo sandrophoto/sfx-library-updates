@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SFX Library Pro Plus 3000</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 07 Sep 2026 21:49:07 +0200</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sandrophoto/sfx-library-updates/releases/download/v1.0/SFXLibraryProPlus3000-1.0.zip" length="6216539" type="application/octet-stream" sparkle:edSignature="F8g8YwaX0+prRn+GJhinXhWdxnrNqtI+OnbtMwxrbM0T5jMrpX2+OCx8UXayE2lZN/hKQchrBYTeIYPCkb+RAg=="/>
+        </item>
+    </channel>
+</rss>
