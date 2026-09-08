@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>SFX Library Pro Plus 3000</title>
+        <title>Bip Boop</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Mon, 07 Sep 2026 23:24:07 +0200</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.1.2</title>
+            <pubDate>Tue, 08 Sep 2026 12:35:14 +0200</pubDate>
+            <sparkle:version>1.1.2</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sandrophoto/sfx-library-updates/releases/download/v1.1/SFXLibraryProPlus3000-1.1.zip" length="6651458" type="application/octet-stream" sparkle:edSignature="9MuSOzkXljp0r1PQMc4OdGtF+jfew4F/Eibvc2RNbgGXNRUgL81wIbgqs75KzvRKhlQwlh0FrEf/TT40ujfUDw=="/>
+            <enclosure url="https://github.com/sandrophoto/sfx-library-updates/releases/download/v1.1.2/BipBoop-1.1.2.zip" length="6967388" type="application/octet-stream" sparkle:edSignature="74P5q+QkZeZ5txqc9eYign3SIadhEhcmbkR2hTPU5vW/HAaX7hQnezktmM7NRlaMqY2j6JjSP1F08miZfLrJCg=="/>
         </item>
     </channel>
 </rss>
